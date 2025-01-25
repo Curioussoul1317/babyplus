@@ -21,7 +21,7 @@
             <div class="product-widget">
               <div class="product-img">
                 <!-- <img src="./img/product04.png" alt="" /> -->
-                 <img src="http://206.189.190.47/babypluspos/storage/{{ $item->getPrimaryImage()->image_path }}" alt="">
+                 
               </div>
               <div class="product-body" style="    margin-left: 10px;">
                 <p class="product-category">Category</p>
